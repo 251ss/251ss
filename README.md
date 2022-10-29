@@ -6,7 +6,7 @@
 - zh-CN / en-US 
 - Programmer / Developer / Coder / Software Engineer
 - blog：https://www.251s.top/
-- ᴸᵒᵛᵉ ⁱˢ ᵗʰᵉ ᵐᵒˢᵗ ᵈⁱᶠᶠⁱᶜᵘˡᵗ ᵗʰⁱⁿᵍ ⁱⁿ ᵗʰᵉ ʷᵒʳˡᵈ
+- **ᴸᵒᵛᵉ ⁱˢ ᵗʰᵉ ᵐᵒˢᵗ ᵈⁱᶠᶠⁱᶜᵘˡᵗ ᵗʰⁱⁿᵍ ⁱⁿ ᵗʰᵉ ʷᵒʳˡᵈ**
 
 hope you're in a good mood and open your business as usual.
 
